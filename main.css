@@ -1,0 +1,276 @@
+/* DIV BODY STYLES */
+.wrap {
+    padding: 0 10% 0 15%;
+}
+
+/* HEADER STYLES */
+
+nav {
+    padding: 6% 0 0 0;
+}
+
+ul {
+    float: right;
+    margin-right: 13%;
+}
+
+li {
+   font-size: 22px;
+   color: #999999;
+   display: inline;
+}
+
+.margin {
+    margin-left: 25px;
+    }
+
+nav img {
+    margin-left: 3%;
+}
+
+div {
+    border-color: black;
+    border-width: 10px;
+}
+section header h1 {
+    font-size: 4em;
+    font-family: "Times New Roman";
+    font-weight: lighter;
+    Line-height: normal;
+    text-align: center;
+    color: #333333;    
+}
+
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.textdecor {
+    text-decoration: underline;
+    text-decoration-color: #999999;
+    text-decoration-style: dashed;
+}
+
+h3{
+    text-align: center;
+    margin-top: 0;
+}
+
+
+/* image styles */
+
+.div-img {
+    background-color: #dfd9de;
+    padding: 15%;
+    padding-bottom: 30px;
+
+}
+
+.img-right {
+    padding-left: 100px;
+    padding-bottom: 30px;
+}
+
+.img-left {
+   padding-bottom: 50px;
+}
+
+.div-img img {
+    margin-top: -30px;
+}
+
+
+/* Paragraph Styles */
+
+.p1 {
+    margin-top: 10%;
+    line-height: 30px;
+}
+
+.p2 {
+    margin-top: 5%;
+    line-height: 30px;
+}
+
+.p3 {
+    margin-top: 5%;
+    line-height: 30px;
+}
+
+/* BUTTON AND FOOTER STYLES */
+.buttons {
+    margin-top: 10%;
+}
+button {
+    margin-right: 0.2%;
+    padding: 8px;
+    border-radius: 5px;
+    font-weight: lighter;
+}
+
+.buttons span {
+    float: right;
+    margin-right: 2%;
+}
+
+.div-footer {
+    margin-top: 10%;
+    margin-left: -10%;
+}
+
+.div-footer img {
+    margin-top: 8%;
+}
+.inp-footer {
+    width: 800px;
+    padding: 18px;
+    border-radius: 8px;
+}
+.div-footer button {
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 0px;
+    width: 130px;
+    background-color: #beefea;
+}
+
+/* COMMENT SECTION */
+.comment-section h1 {
+    margin-top: 10%;
+    margin-right: 70%;
+}
+
+.comment-section div {
+    margin-top: 3%;
+}
+
+.comment-section div:nth-of-type(1) {
+    background-color: #f2f2f2;
+    width: 50%;
+    height: 150px;
+    border-radius: 20px;
+    float: right;
+    margin-right: 40%;
+    margin-top: 0%;
+}
+ .comment-section div:nth-of-type(1) p {
+    margin:3% 0 0 5%;  
+}
+
+.comment-section div:nth-of-type(2) {
+    position: absolute;
+    float: right;
+    margin: 5% 0 0 75%; 
+}
+
+.comment-section div:nth-of-type(3) {
+    background-color: #d6e9ff;
+    width: 50%;
+    height: 150px;
+    border-radius: 20px;
+    float: right;
+    margin-left: 60%;
+}
+
+.comment-section div:nth-of-type(3) p {
+    margin:3% 0 0 5%;  
+}
+
+
+.comment-section div:nth-of-type(4) {
+    float: left;
+    position: absolute;
+    margin: 20% 0 0%;
+}
+.comment-section div:nth-of-type(5) {
+    background-color: #f2f2f2;
+    width: 70%;
+    height: 180px;
+    border-radius: 20px;
+    float: right;
+    margin-right: 20%;
+}
+
+.comment-section div:nth-of-type(5) p {
+    margin:3% 0 0 5%;  
+}
+
+.comment-section div:nth-of-type(6) {
+    position: absolute;
+    margin: 34% 0 0 -1.3%;
+}
+
+.comment-section div:nth-of-type(7) {
+    background-color: #f2f2f2;
+    width: 40%;
+    height: 90px;
+    border-radius: 20px;
+    float: left;
+    margin-left: 10%;
+
+}
+
+.comment-section div:nth-of-type(7) p {
+    margin:3% 0 0 5%;  
+}
+
+/* Ending Part */
+.last-part {
+    border-top-width: 15px; 
+    position: relative;
+    margin-top: 60%;
+    height: 300px;
+}
+.last-part div:nth-of-type(1) {
+    float: left;
+    margin-top: 4%;
+}
+
+.last-part div:nth-of-type(2) {
+    float: right;
+    margin-top: 4%;
+}
+
+.arrow-right {
+    font-size: 35px;
+    font-weight: lighter;
+    position: absolute;
+    margin: -3% 0 0 2%;
+}
+
+.arrow-left {
+    font-size: 35px;
+    font-weight: 2px;
+    margin: 0 3% 0 0;
+}
+
+.nav-article {
+    font-size: 25px;
+}
+
+.last-part b:nth-of-type(1) {
+    font-size : 23px;
+    margin-left: -10%;
+}
+
+.last-part b:nth-of-type(2) {
+    font-size : 23px;
+    color: red;
+    margin-right: -10%;
+}
+
+.logo-down {
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 1000px;
+    margin-top: -4%;
+}
+
+.img2 {
+    float: right;
+}
